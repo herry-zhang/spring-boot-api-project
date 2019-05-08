@@ -22,7 +22,7 @@ OSS对象存储  Ali-OSS
 UI框架 Ant Design  
 
 ```
-备注：由于作者开发项目的时候，使用Ant Design版本较旧，故没有上传前端代码，框架使用介绍地址：https://ant.design/index-cn
+备注：由于作者开发项目的时候，使用Ant Design版本较旧，故没有上传前端代码，框架使用介绍地址：https://ant.design/index-cn
 ```
 
 ## 页面预览  
