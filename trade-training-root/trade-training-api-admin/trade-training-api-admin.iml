@@ -145,7 +145,7 @@
     <orderEntry type="library" scope="TEST" name="Maven: com.jayway.restassured:rest-assured-common:2.3.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.jayway.restassured:xml-path:2.3.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.commons:commons-lang3:3.7" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.24" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.54" level="project" />
     <orderEntry type="library" name="Maven: joda-time:joda-time:2.9.9" level="project" />
     <orderEntry type="library" name="Maven: com.github.axet:kaptcha:0.0.9" level="project" />
     <orderEntry type="library" name="Maven: com.jhlabs:filters:2.0.235" level="project" />
