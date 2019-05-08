@@ -1,6 +1,5 @@
 package com.trade.training.service.impl.common;
 
-import com.google.code.kaptcha.Producer;
 import com.trade.training.common.exception.CustomException;
 import com.trade.training.common.validator.ValidatorUtils;
 import com.trade.training.config.AliSmsTypeCode;

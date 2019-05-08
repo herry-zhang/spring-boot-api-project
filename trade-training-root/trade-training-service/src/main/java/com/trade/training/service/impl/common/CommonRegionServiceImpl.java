@@ -2,13 +2,9 @@ package com.trade.training.service.impl.common;
 
 import com.trade.training.mapper.common.CommonRegionMapper;
 import com.trade.training.model.dto.response.common.CommonRegionResponseDTO;
-import com.trade.training.model.dto.response.sys.SysRoleMenuItemResponseDTO;
-import com.trade.training.model.entity.cloud.CloudUser;
-import com.trade.training.model.entity.cloud.CloudUserExample;
 import com.trade.training.model.entity.common.CommonRegion;
 import com.trade.training.model.entity.common.CommonRegionExample;
 import com.trade.training.service.common.CommonRegionService;
-import org.apache.commons.lang.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
