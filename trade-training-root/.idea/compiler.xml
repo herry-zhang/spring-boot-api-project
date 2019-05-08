@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="trade-training-api-admin" />
+        <module name="trade-training-api-agent" />
+        <module name="trade-training-api-ali" />
+        <module name="trade-training-api-user" />
+        <module name="trade-training-common" />
+        <module name="trade-training-config" />
+        <module name="trade-training-dao" />
+        <module name="trade-training-model" />
+        <module name="trade-training-service" />
+        <module name="trade-training-timer" />
+        <module name="trade-training-web-admin" />
+        <module name="trade-training-web-app" />
+        <module name="trade.training.common" />
+        <module name="trade.training.config" />
+        <module name="trade.training.dao" />
+        <module name="trade.training.model" />
+        <module name="trade.training.service" />
+        <module name="trade.training.web.admin" />
+        <module name="trade.training.web.app" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mybatis-generator-gui" target="1.8" />
+      <module name="trade-training-enum" target="1.8" />
+      <module name="trade-training-web-dto" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

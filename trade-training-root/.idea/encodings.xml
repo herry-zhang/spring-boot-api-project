@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../mybatis-generator-gui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trade-training-api-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trade-training-api-agent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trade-training-api-ali" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trade-training-api-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trade-training-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trade-training-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trade-training-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trade-training-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trade-training-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trade-training-timer" charset="UTF-8" />
+  </component>
+</project>

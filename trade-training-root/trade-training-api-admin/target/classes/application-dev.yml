@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/train_trade?allowMultiQueries=true&useUnicode=true&useSSL=false&characterEncoding=UTF-8
+    username: root
+    password: root
+
+logging:
+  config: classpath:logback-spring.xml
+  level:
+    com.trade.training: debug
+# swagger
+swagger:
+  enable: true
